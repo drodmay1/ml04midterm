@@ -14,13 +14,11 @@ The notebook walks through:
 
 ## Project Files
 
-- Jupyter Notebook: `classification_davidrm.ipynb` 
-- [📝 Peer Review File (Markdown)](./peer_review.md) *(Replace with real file once you create it)*  
-- 📁 Dataset: [`data/mushrooms.csv`](./data/mushrooms.csv)
+- Jupyter Notebook: `classification_davidrm.ipynb` https://github.com/drodmay1/ml_classification_davidrm/blob/main/classification_davidrm.ipynb
+- Peer Review File (Markdown)](./peer_review.md) *(Replace with real file once you create it)*  
+- Dataset: [`data/mushrooms.csv`] https://github.com/drodmay1/ml_classification_davidrm/blob/main/data/mushrooms.csv
 
----
-
-## ⚙️ How to Run Locally
+## How to Run Locally
 
 To run this notebook on your own computer:
 
