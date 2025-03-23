@@ -19,6 +19,7 @@ ENV/
 
 # Ignore dataset files (optional if your dataset is large/private)
 data/*.csv
+!data/mushrooms.csv
 
 # Ignore logs and temp files
 *.log
