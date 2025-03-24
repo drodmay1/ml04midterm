@@ -1,8 +1,11 @@
 # Peer Review – Mushroom Classification Project
 
 **Project Reviewed:** Prince's Mushroom Classification Notebook 
+
 **Notebook** https://github.com/don4ye/ml_classification_prince/blob/main/classification_prince.ipynb
+
 **Reviewer:** David Rodriguez-Mayorquin
+
 **Date:** March 24, 2025
 
 
