@@ -1,6 +1,7 @@
 # Mushroom Classification Project
 
 **Author:** David Rodriguez-Mayorquin
+
 **Date:** March 24, 2025
 
 This project demonstrates a simple machine learning classification workflow using the Mushroom dataset from the UCI Machine Learning Repository. The goal is to predict whether a mushroom is edible or poisonous based on physical characteristics.
@@ -26,7 +27,7 @@ To run this notebook on your own computer:
 
 ```bash
 git clone https://github.com/drodmay1/ml_classification_davidrm/blob/main/classification_davidrm.ipynb
-cd cd ml_classification_davidrm
+cd ml_classification_davidrm
 ```
 
 ### 2. Create and activate virtual environment
