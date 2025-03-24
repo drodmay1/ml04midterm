@@ -25,8 +25,8 @@ To run this notebook on your own computer:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/drodmay1/ml_classification_yourname.git
-cd ml_classification_yourname
+git clone https://github.com/drodmay1/ml_classification_davidrm/blob/main/classification_davidrm.ipynb
+cd cd ml_classification_davidrm
 ```
 
 ### 2. Create and activate virtual environment
