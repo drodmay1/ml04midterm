@@ -17,9 +17,11 @@ The notebook is clear and easy to read. Each part is labeled, and the charts hel
 
 ### 2. Feature Selection & Justification
 
-Prince used all 22 features as inputs, which makes sense because they are all categories that might help the model. Using LabelEncoder to turn them into numbers was a good choice and clearly explained.
+Prince used  all 22 features as inputs, which makes sense because they are all categories that might help the model. Using LabelEncoder to turn them into numbers was a good choice and clearly explained.
 
-**Suggestion:** One feature (veil-type) is the same for every mushroom, so it might not help the model. It could be good to leave out features like that to make the model simpler.
+Prince dropped a lot of rows with missing values in the stalk-root column. That cleaned the data, but it also removed about 30% of the dataset. I wonder if it would have been better to drop just the stalk-root column, or to fill in the missing values with something like "unknown" so more data could be used. 
+
+**Suggestion:** Instead of dropping rows with missing stalk-root values, it could be worth trying to fill them in with something like "unknown".
 
 ### 3. Model Performance & Comparisons
 
